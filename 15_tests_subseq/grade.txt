@@ -1,0 +1,63 @@
+Grading at Sun Oct 27 23:47:37 UTC 2019
+**Testing broken implementation 10 **
+-------------------------------------
+
+failed on 1 2 5 -6 8, negative case
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+failed on 9, single case
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+failed on 1,1,1,3, level case
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+failed on empty
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+failed on -2, negative case
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+failed on empty
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+failed on 1 2 5 -6 8, negative case
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+failed on 9, single case
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+failed on 1 2 5 -6 8, negative case
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+failed on 1 2 5 -6 8, negative case
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+failed on 6, 10, 5, 9, -11, 3, 6, 12, negative case
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All test programs were handled correctly
+
+Overall Grade: PASSED
