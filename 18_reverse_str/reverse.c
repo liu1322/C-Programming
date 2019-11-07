@@ -3,6 +3,9 @@
 #include <string.h>
 
 void reverse(char * str) {
+  if (!str){
+    return;
+  }
   char * p1 = str;
   if (*p1 == '\0'){
     return;
@@ -29,8 +32,8 @@ int main(void) {
   char str4[] = "Hello, my name is Inigo Montoya.";
   char str5[] = "You can be my wingman anyday!";
   char str6[] = "Executor Selendis! Unleash the full power of your forces! There may be no tomorrow!";
-  char * array[] = {str0, str1, str2, str3, str4, str5, str6};
-  for (int i = 0; i < 7; i++) {
+    char * array[] = {str0, str1, str2, str3, str4, str5, str6};
+    for (int i = 0; i < 7; i++) {
     reverse(array[i]);
     printf("%s\n", array[i]);
   }
