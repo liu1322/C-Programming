@@ -3,7 +3,22 @@
 #include <string.h>
 
 void reverse(char * str) {
-  //WRITE ME!
+  char * p1 = str;
+  if (*p1 == '\0'){
+    return;
+  }  
+  char * p2 = p1 + 1;
+  while (*p2 != '\0'){
+    p2++;
+  }
+  p2--;
+  while (p1 < p2){
+    char temp = *p2;
+    *p2 = *p1;
+    *p1 = temp;
+    p1++;
+    p2--;
+  }
 }
 
 int main(void) {
