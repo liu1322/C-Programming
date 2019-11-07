@@ -1,0 +1,62 @@
+Grading at Thu Nov  7 20:21:12 UTC 2019
+**Testing broken implementation 10 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+failed on 0-0
+**Testing broken implementation 4 **
+-------------------------------------
+
+failed on double
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+failed on double
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+failed on negative base
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+failed on negative base
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
